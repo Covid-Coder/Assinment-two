@@ -1,0 +1,75 @@
+.title-pragraph-image{
+          padding-left: 25px;
+          }
+#title-1{
+          font-size: 50px;
+          font-family: 'Galada', cursive;
+          padding-left: 25px;
+         }
+
+#pragraph{
+          padding-left: 25px;
+}
+.button-buy{
+        padding-left: 25px;
+}
+.shoe-title-pragraph-image{
+        position: relative;
+        margin-top: 75px;               
+}
+.single-shoe-image{
+        position: relative;
+}
+#price{
+          position: relative;
+          left: 225px;
+          bottom: 45px;
+}
+#buy{
+          position: relative; 
+          top:10px;
+}
+#brand-shoes{
+          position: relative;
+          top: 75px;
+}
+#non-brand-shoes{
+          position: relative;
+          top: 100px;
+}
+#last-image-section{
+          position: relative;
+          top: 225px;
+}      
+
+#image12{
+          position: relative;
+          left: 50px;
+          top: 30px;
+}
+#image13{
+          position: relative;
+          left: 50px;
+          top: 30px;
+}
+#image14{
+          position: relative;
+          left: 50px;
+          top: 30px;       
+}
+.info-image-02
+{
+          position: relative;  
+          left: 550px;
+          bottom: 400px;
+
+}
+#stay-tuch{
+          position: relative;
+          bottom: 25px;
+}
+
+.last-submission{
+             text-align: center;
+}
+
